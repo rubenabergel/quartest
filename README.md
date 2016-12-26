@@ -1,9 +1,9 @@
 #Quartest
 
 To build:
-	run npm install
-	run npm start 
-	go to localhost:8080
+	*run npm install
+	*run npm start 
+	*go to localhost:8080
 
 
 You'll find here a server side rendered react/redux app that goes through the user story as specified in the exerice question I received over email. 
