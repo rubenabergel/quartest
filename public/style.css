@@ -1,0 +1,52 @@
+button{
+	margin:0 7px 7px 0;
+}
+
+button:focus {outline:0!important;}
+
+
+h5{
+	margin-bottom: 50px;
+	font-weight: 400;
+}
+
+li{
+	padding: 40px 20px !important;
+}
+
+
+
+.header{
+	width:100%; 
+	height:60px; 
+	background-color:#299cd7;
+	padding:10px;
+}
+
+.brand{
+	color: white;
+    font-size: 25px;
+    font-family: helvetica;
+    cursor:pointer;
+}
+
+.landing{
+	text-align: center;
+}
+
+.hidden{
+	display:none;
+}
+
+.bodyFrame{
+	padding: 10%;
+}
+
+.testTitle{
+	text-align: center;
+    margin-bottom: 50px;
+}
+
+.center{
+	text-align:center;
+}
